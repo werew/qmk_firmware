@@ -14,8 +14,8 @@
   "ws2812": {
     "pin": "B6"
   },
-  "processor": "atmega32u4",
-  "bootloader": "caterina",
+  "processor": "RP2040",
+  "bootloader": "rp2040",
   "matrix_pins": {
     "direct": [
       ["D4"],
